@@ -1,0 +1,45 @@
+body {
+    font-family: 'Trebuchet MS';
+    background-color: violet; 
+}
+
+header {
+    border: 3px solid darkorchid; 
+    border-radius: 7px;
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+nav a {
+    margin: 50px;
+    font-size: 23px;
+    text-decoration: none;
+    color: black;
+    border: 3px solid darkorchid;
+    border-radius: 6px;
+    background-color: white;
+}
+
+.popular {
+    background-color: blueviolet;
+}
+
+footer {
+    border: 10px solid darkorchid;
+    font-size: 15px;
+    text-align: center;
+}
+
+
+main h2 {
+    background-color: indigo;
+    border: 3px solid darkorchid
+}
+
+main p {
+    border: 3px solid indigo;
+    border-radius: 7px;
+}
